@@ -9,7 +9,7 @@ export default () => {
 <>
 <Markdown
     content={`
-Assume that we have a \`table\` element and a \`button\` for exporting the table cells to CSV as following:
+Assumeeee that we have a \`table\` element and a \`button\` for exporting the table cells to CSV as following:
 
 ~~~ html
 <table id="exportMe" class="table">
